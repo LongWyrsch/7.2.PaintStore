@@ -1,1 +1,1 @@
-# Paint-Store
+# PaintStore
